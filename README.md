@@ -6,4 +6,5 @@ While we have created smart cities, we have not yet been able to create a smart 
 
  Our pitch is to leverage AI to cater to the needs of students at the individual level. 
 
-[Pitchdeck_VidyutGyana.pdf](https://github.com/Sangam-Suman/BodhaSangam/files/14115900/Pitchdeck_VidyutGyana.pdf)
+![image](https://github.com/Sangam-Suman/BodhaSangam/assets/100495965/7fe5040f-7ac1-4a2f-b55b-be8e51a4d51c)
+
